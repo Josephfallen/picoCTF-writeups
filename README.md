@@ -35,7 +35,6 @@ The write-ups are organized by main category and then by difficulty:
 ├── 📂 General Skills
 │   ├── 📂 Easy
 │   ├── 📂 Medium
-│   ├── 📂 Hard
 ├── 📂 Miscellaneous
 │   ├── 📂 Easy
 │   ├── 📂 Medium
